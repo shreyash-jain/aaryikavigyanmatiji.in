@@ -1,0 +1,9 @@
+node_modules
+vendor
+storage/*.key
+.env
+.git
+*.sql
+ziA9h2f5
+/ziA9h2f5
+public/storage
