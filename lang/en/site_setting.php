@@ -1,0 +1,41 @@
+<?php
+
+return [		
+	'site_setting' => 'Site Settings',
+	'setting' => 'Setting',
+	'site_name' => 'Site Name ',
+	'enter_site_name' => 'Enter Site Name',
+	'enter_email' => 'Enter Email',
+	'email' => 'Email',
+	'site_favicon' => 'Site Favicon',
+	'header_logo' => 'Header Logo',
+    'youtube_URL' => 'Youtube URL',
+    'whatsapp_url' => 'WhatsAap URL',
+    'enter_whatsapp_url' => 'Enter WhatsAap URL',
+	'enter_youtube_URL' => 'Enter Youtube URL',
+	'Instagram URL' => 'Instagram URL',
+	'enter_Instagram URL' => 'Enter Instagram URL',
+	'twitter_URL'    => 'Twitter URL',
+	'enter_twitter_URL'    => 'Enter Twitter URL',
+	'facebook_URL'    => 'Facebook URL',
+	'enter_facebook_URL'    => 'Enter Facebook URL',
+	'footer_log'    => 'Footer Logo',
+	'enter_second_mobile_number'    => 'Enter Second Mobile Number',
+	'second_mobile_number'    => 'Second Mobile Number',
+	'enter_mobile_number'    => 'Enter Mobile Number',
+	'mobile_number'    => 'Mobile Number',
+	'english'    => 'English',
+	'hindi'    => 'Hindi',
+	'default_language'    => 'Default Language',
+	'copyright_text'    => ' Copyright   Text',
+	'enter_copyright_text'    => 'Enter Copyright Text',
+	'site_keyword'    => 'Site Keyword',
+	'enter_site_keyword'    => 'Enter Site Keyword',
+	'footer_description'    => 'Footer Description',
+	'enter_footer_description'    => 'Enter Footer Description',
+	'enter_address'    => 'Enter Address',
+	'address'    => 'Address',
+];
+
+?>
+    

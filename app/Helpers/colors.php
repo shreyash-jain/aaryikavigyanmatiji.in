@@ -1,0 +1,26 @@
+<?php
+return   [
+    "Black" => "#000000",
+    "White" => "#ffffff",
+    "Brown" => "#34041b",
+    "Old Mauve" => "#622c46",
+    "Wheat" => "#ffd9ba",
+    "Red" => "#FF0000",
+    "Light Red" => "#fae4e8",
+    "Pink" => "#FFC0CB",
+    "Orange" => "#FFA500",
+    "PeachPuff" => "#FFDAB9",
+	"Purple" => "#800080",
+    "Navy Blue" => "#000080",
+    "Light Blue" => "#f1f2f3",
+    "LightSkyBlue" => "#87CEFA",
+    "Green" => "#00FA9A",
+    "PaleGreen" => "#98FB98",
+    "Yellow" => "#fbf1dd",
+    "Aqua" => "#00FFFF",
+    "MediumAquamarine" => "#66CDAA",
+    "Silver" => "#C0C0C0",
+    "Gold" => "#FFD700",
+    "Light" => "#f5f5f5",
+];
+?>

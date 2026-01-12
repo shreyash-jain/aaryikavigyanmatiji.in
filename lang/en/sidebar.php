@@ -1,0 +1,48 @@
+<?php
+
+return [	
+	'dashboard' 				=> 'Dashboard',
+	'sites_settings' 			=> 'Site Settings',
+	'home_page' 				=> 'Home Page',
+	'suvichar_text' 			=> 'Suvichar Text',
+	'suvichar_images' 			=> 'Suvichar/S.Manjusha',
+	'home_page_settings' 		=> 'Setting',
+	'sanghast_aaryika' 			=> 'Sanghast Aaryika',
+	'sanghast_brahmacharya_sisters' => 'Brahmacharya Bahane',
+	'vihar_info' 				=> 'Vihar Info',
+	'add' 						=> 'Add',
+	'list' 				        => 'List',
+	'gallery' 				    => 'Gallery',
+	'sahitya' 				    => 'Sahitya',
+	'chaturmas' 				=> 'Chaturmas Janakaree',
+	'vigyan_mati_mataji' 		=> 'Vigyan Mati Mataji',
+	'oshadhi_manjoosha' 		=> 'Oshadhi Manjoosha',
+	'meta_data' 				=> 'Meta Data', 
+	'event' 					=> 'Event', 
+	'pravachan_video'           => 'Pravachan Video',
+	'pravachan_audio'           => 'Pravachan Audio',
+	'classes' 					=> 'Classes', 
+	/* 'dashboard'                         => 'डैशबोर्ड',
+    'sites_settings'                    => 'साइट सेटिंग्स',
+    'home_page'                         => 'होम पेज',
+    'suvichar_text'                     => 'सुविचार टेक्स्ट',
+    'suvichar_images'                   => 'सुविचार इमेजेस',
+    'home_page_settings'                => 'सेटिंग',
+    'sanghast_aaryika'                  => 'संघस्त आर्यिका',
+    'sanghast_brahmacharya_sisters'     => 'ब्रह्मचर्य बहने',
+    'vihar_info'                        => 'विहार जानकारी',
+    'add'                               => 'जोड़ें',
+    'list'                              => 'सूची',
+    'gallery'                           => 'गैलरी',
+    'sahitya'                           => 'साहित्य',
+    'chaturmas'                         => 'चातुर्मास जानकारी',
+    'vigyan_mati_mataji'                => 'विज्ञान मति माताजी',
+    'oshadhi_manjoosha'                 => 'औषधि मंजूषा',
+    'meta_data'                         => 'मेटा डेटा',
+    'pravachan_video'                   => 'प्रवचन वीडियो',
+    'pravachan_audio'                   => 'प्रवचन औडियो',
+    'event'                   			=> 'प्रवचन औडियो', */
+];
+
+?>
+    
