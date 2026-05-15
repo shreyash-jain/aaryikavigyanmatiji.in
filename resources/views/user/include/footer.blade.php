@@ -96,7 +96,7 @@ $site_data = App\Models\Site::latest()->first();
 						target="_blank"><span>AARYIKAVIGYANMATIJI</span></a> - All Rights Reserved.
 					</div>
 					<div class="col-12 col-md-6 text-right color-dark-blue">
-						Design & Development by   <a href="https://thecoderway.com/" data-hover="THECODERWAY" target="_blank"><span>THECODERWAY</span></a> 
+						Maintained by <a href="https://www.vidyayatan.com/" data-hover="VIDYAYATAN" target="_blank"><span>VIDYAYATAN</span></a>
 					</div>
 				</div>
 			</div>
